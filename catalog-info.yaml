@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: kftc-web
+  description: KFTC's main homepage
+spec:
+  type: website
+  lifecycle: experimental
+  owner: engineers
+  system: examples
