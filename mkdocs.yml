@@ -1,0 +1,10 @@
+site_name: 'kftc-website'
+site_description: KFTC's main homepage
+repo_url: https://github.com/ecosoonil/kftc-website
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview: 'overview.md'
