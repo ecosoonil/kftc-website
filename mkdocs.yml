@@ -1,5 +1,5 @@
-site_name: 'kftc-website'
-site_description: KFTC's main homepage
+site_name: ${{values.component_id}}
+site_description: ${{values.description}}
 repo_url: https://github.com/ecosoonil/kftc-website
 edit_uri: edit/main/docs
 
@@ -7,5 +7,4 @@ plugins:
   - techdocs-core
 
 nav:
-  - Overview:
-    - My Overview: 'overview.md'
+  - Overview: overview.md
