@@ -8,3 +8,6 @@ spec:
   lifecycle: experimental
   owner: engineers
   system: examples
+metadata:
+  annotaions:
+    backstage.io/techdocs-ref: dir:.
