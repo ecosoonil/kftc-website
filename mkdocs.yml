@@ -1,7 +1,7 @@
 site_name: 'kftc-website'
 site_description: KFTC's main homepage
 repo_url: https://github.com/ecosoonil/kftc-website
-edit_uri: edit/master/docs
+edit_uri: edit/main/docs
 
 plugins:
   - techdocs-core
