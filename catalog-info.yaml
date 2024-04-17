@@ -3,8 +3,8 @@ kind: Component
 metadata:
   namespace: default
   annotations:
-    # backstage.io/techdocs-ref: dir:.
-    backstage.io/techdocs-ref: url:https://github.com/ecosoonil/kftc-website/tree/main
+    backstage.io/techdocs-ref: dir:.
+    # backstage.io/techdocs-ref: url:https://github.com/ecosoonil/kftc-website/tree/main
   name: kftc-web
   description: KFTC's main homepage
 spec:
