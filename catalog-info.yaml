@@ -3,11 +3,10 @@ kind: Component
 metadata:
   name: kftc-web
   description: KFTC's main homepage
+  annotaions:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: experimental
   owner: engineers
   system: examples
-metadata:
-  annotaions:
-    backstage.io/techdocs-ref: dir:.
